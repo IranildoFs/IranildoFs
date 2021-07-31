@@ -6,7 +6,7 @@
 
 ```kotlin
 object Iranildo{
- val MyName = "IRANILDO FIALHO DA SILVA"
+ val name = "IRANILDO FIALHO DA SILVA"
  val acknowledgements = "DEV JR FULL STACK"
  
  val languages = listOf("JavaScript", "HTML", "CSS", "ReactJS", "NodeJS", "SQL") 
