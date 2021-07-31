@@ -2,20 +2,20 @@
 ## Hi 👋!
 
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+## Sobre mim
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
-object **Iranildo** {
+object Iranildo{
  val name = "IRANILDO FIALHO DA SILVA"
- val acknowledgements = "DESENVOLVIMENTO WEB FULL STACK JR"
+ val acknowledgements = "DEV JR FULL STACK"
  
  val primarySkillset = "ALGUMAS HABILIDADES"
  val languages = listOf("JavaScript", "HTML", "CSS", "ReactJS", "NodeJS", "SQL") 
  val utils = listOf("Insomnia") 
  val devOps = listOf("Git", "GitHub", "Docker") 
- val codeEditor = listOf("Terminal", "Visual Studio Code") 
+ val codeEditor = listOf("Visual Studio Code") 
 }
 ```
 
@@ -28,3 +28,5 @@ object **Iranildo** {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/node/node.png"></code>
