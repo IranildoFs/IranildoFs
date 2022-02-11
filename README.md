@@ -10,8 +10,7 @@ object Iranildo{
  val acknowledgements = "DEV JR FULL STACK"
  
  val languages = listOf("JavaScript", "HTML", "CSS", "ReactJS", "NodeJS", "SQL") 
- val utils = listOf("Insomnia") 
- val devOps = listOf("Git", "GitHub", "Docker") 
+ val utils = listOf("Insomnia")
  val codeEditor = listOf("Visual Studio Code") 
 }
 ```
