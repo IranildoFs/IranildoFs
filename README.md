@@ -5,13 +5,13 @@
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
-object Iranildo{
- val name = "IRANILDO FIALHO DA SILVA"
- val acknowledgements = "DEV JR FULL STACK"
- 
- val languages = listOf("JavaScript", "HTML", "CSS", "ReactJS", "NodeJS", "SQL") 
- val utils = listOf("Insomnia")
- val codeEditor = listOf("Visual Studio Code") 
+const programmer = {
+ name: "IRANILDO FIALHO DA SILVA",
+ job: "Instale Tecnologia",
+ languages : ["JavaScript", "Typescript", "SQL"],
+ libs: ["ReactJS", "Styled Components"],
+ frameworks: [NextJS, Adonis],
+ utils = ["NodeJS", "Insomnia", "VsCode", "docker"]
 }
 ```
 
