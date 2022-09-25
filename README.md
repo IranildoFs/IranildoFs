@@ -10,7 +10,7 @@ const programmer = {
  job: "Instale Tecnologia",
  languages : ["JavaScript", "Typescript", "SQL"],
  libs: ["ReactJS", "Styled Components"],
- frameworks: [NextJS, Adonis],
+ frameworks: ["NextJS", "Adonis"],
  utils = ["NodeJS", "Insomnia", "VsCode", "docker"]
 }
 ```
